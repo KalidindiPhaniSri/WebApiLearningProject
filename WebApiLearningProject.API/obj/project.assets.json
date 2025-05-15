@@ -91,6 +91,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "WebApiLearningProject.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WebApiLearningProject.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApiLearningProject.BLL.dll": {}
+        }
       }
     }
   },
@@ -417,11 +427,17 @@
         "swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "WebApiLearningProject.BLL/1.0.0": {
+      "type": "project",
+      "path": "../WebApiLearningProject.BLL/WebApiLearningProject.BLL.csproj",
+      "msbuildProject": "../WebApiLearningProject.BLL/WebApiLearningProject.BLL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Swashbuckle.AspNetCore >= 8.1.1"
+      "Swashbuckle.AspNetCore >= 8.1.1",
+      "WebApiLearningProject.BLL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -458,7 +474,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Learning\\FullStackLearning\\WebApiLearningProject\\WebApiLearningProject.BLL\\WebApiLearningProject.BLL.csproj": {
+              "projectPath": "E:\\Learning\\FullStackLearning\\WebApiLearningProject\\WebApiLearningProject.BLL\\WebApiLearningProject.BLL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

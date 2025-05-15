@@ -1,0 +1,12 @@
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\bin\Debug\net8.0\WebApiLearningProject.BLL.deps.json
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\bin\Debug\net8.0\WebApiLearningProject.BLL.dll
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\bin\Debug\net8.0\WebApiLearningProject.BLL.pdb
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.AssemblyInfoInputs.cache
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.AssemblyInfo.cs
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.csproj.CoreCompileInputs.cache
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.sourcelink.json
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.dll
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\refint\WebApiLearningProject.BLL.dll
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\WebApiLearningProject.BLL.pdb
+E:\Learning\FullStackLearning\WebApiLearningProject\WebApiLearningProject.BLL\obj\Debug\net8.0\ref\WebApiLearningProject.BLL.dll
